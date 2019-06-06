@@ -10,6 +10,14 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require js/jquery-1.11.1
+//= require bootstrap/js/bootstrap
+//= require js/jquery.backstretch
+//= require js/wow
+//= require js/retina-1.1.0
+//= require js/waypoints
+//= require js/jquery.magnific-popup
+//= require js/scripts
 //= require rails-ujs
 //= require activestorage
 //= require turbolinks
